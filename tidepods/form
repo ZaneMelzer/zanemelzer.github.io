@@ -1,0 +1,31 @@
+<html>
+
+<head>
+    <title>template</title>
+    <link href="template.css" type="text/css" rel="stylesheet">
+</head>
+
+<body>
+    <div id="wrap">
+        <header>
+         
+        </header>
+
+        <nav>
+            navigation
+        </nav>
+
+        <section>
+    
+        </section>
+
+        <footer>
+           
+        </footer>
+    </div>
+    <!--wrap close-->
+
+
+</body>
+
+</html>

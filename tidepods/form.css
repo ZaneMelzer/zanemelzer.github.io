@@ -1,0 +1,30 @@
+body {
+    margin:0;
+    padding:0;
+    background-color: #ddd;
+}
+
+#wrap {
+    margin:0 auto;
+    width: 70%;
+    background-color: white;
+}
+
+fieldset {
+    border-radius: 1em;
+}
+
+ledgend {
+    font-size: 30px;
+    font-family: Georggia;
+    background-color: navy;
+    color: white;
+    padding: 5px 10px:
+}
+
+textarea {width: 50%;}
+
+form {
+    width: 60%;
+    margin: 0 auto;
+}
